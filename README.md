@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Oylneechan
+- 👀 I’m interested in CS2 server
+- 🌱 I’m currently learning C#
+- 📫 How to reach me ...
+- 😄 Pronouns: Oil - nee - chan
+- ⚡ Fun fact: I'm VFX Major from university.
